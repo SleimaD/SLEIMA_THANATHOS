@@ -6,7 +6,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} /*configuration of my body*/
 
 
 
@@ -17,7 +17,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 11rem;
-}
+} /*containing my elements, putting them at center of my page*/
 
 
 
@@ -27,7 +27,7 @@ body {
     align-items: center;
     gap: 0.5rem;
     color: white;
-}
+} 
 
 .numbers {
     font-size: 4rem;
