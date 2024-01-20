@@ -30,10 +30,10 @@ document.addEventListener("DOMContentLoaded", () => { //eventlistener
             if (nbrdebase >= nbrAboArray[i]) {
                 element.innerText = nbrAboArray[i];   
             }
-        }, 15); // 15 milliseconds to run the incrementation
+        }, 13); // 15 milliseconds to run the incrementation
+        confetti() //adding confettis
     });
 });
- 
 
   
 
